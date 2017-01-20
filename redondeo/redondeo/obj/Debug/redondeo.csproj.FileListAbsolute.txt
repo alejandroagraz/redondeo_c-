@@ -1,0 +1,6 @@
+c:\users\jose.agraz\documents\visual studio 2012\Projects\redondeo\redondeo\bin\Debug\redondeo.exe.config
+c:\users\jose.agraz\documents\visual studio 2012\Projects\redondeo\redondeo\bin\Debug\redondeo.exe
+c:\users\jose.agraz\documents\visual studio 2012\Projects\redondeo\redondeo\bin\Debug\redondeo.pdb
+c:\users\jose.agraz\documents\visual studio 2012\Projects\redondeo\redondeo\obj\Debug\redondeo.csprojResolveAssemblyReference.cache
+c:\users\jose.agraz\documents\visual studio 2012\Projects\redondeo\redondeo\obj\Debug\redondeo.exe
+c:\users\jose.agraz\documents\visual studio 2012\Projects\redondeo\redondeo\obj\Debug\redondeo.pdb
